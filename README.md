@@ -7,7 +7,7 @@
 </a>
 </div>
 <div align="center">
-<p><b>📍 Brasil (Onde o choro é livre e o Wi-Fi cai)</b></p>
+<p><b>📍 ES, Brasil</b></p>
 <p>💾 <b>Webmaster & Criador de Bots</b></p>
 <p>
 Sobrevivendo à base de café puro e carinho de gato.
