@@ -7,12 +7,11 @@
 </a>
 </div>
 <div align="center">
-<p><b>📍 ES, Brasil</b></p>
-<p>💾 <b>Webmaster & Criador de Bots</b></p>
+<p> Backend Developer & Discord Bot's Developer</b></p>
 <p>
-Sobrevivendo à base de café puro e carinho de gato.
+Sobrevivendo à base de cafeína e gatos!
 
-Criador do glorioso <b>Bot Boreal</b>, especialista em gambiarras de alta performance e em dizer <i>"Estranho... na minha máquina funciona"</i>.
+Criador da <b>Boreal App</b>, especialista em gambiarras e em dizer <i>"seco seco, filho"</i>.
 </p>
 </div>
 <!-- Linha separadora clássica de fogo da web antiga -->
@@ -20,7 +19,7 @@ Criador do glorioso <b>Bot Boreal</b>, especialista em gambiarras de alta perfor
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/fire.gif" alt="Linha de fogo" width="400" />
 </div>
 <div align="center">
-<h2>💽 Tecnologias (Que eu finjo dominar)</h2>
+<h2>Tecnologoas que SÓ rodam na minha máquina</h2>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=py,nodejs,mongo,js,html,css,git,github,linux,vscode&theme=light" alt="Minhas Habilidades" />
 </a>
@@ -34,7 +33,7 @@ Criador do glorioso <b>Bot Boreal</b>, especialista em gambiarras de alta perfor
 <img src="https://cyber.dabamos.de/88x31/javascript.gif" alt="JS" />
 </div>
 <div align="center">
-<h2>👾 Painel de Controle (Stats)</h2>
+<h2>Métricas</h2>
 <p><i>Olha o tanto de verde (quando eu lembro de dar commit):</i></p>
 <!-- Gráficos com tema "Synthwave" (Retro/Neon) -->
 <a href="https://github.com/POZEz">
@@ -48,7 +47,7 @@ Criador do glorioso <b>Bot Boreal</b>, especialista em gambiarras de alta perfor
 </a>
 </div>
 <div align="center">
-<h2>☎️ Assine meu Livro de Visitas</h2>
+<h2>Meu Livro de Visitas</h2>
 <!-- Estilo "plastic" para simular botões velhos em 3D -->
 <a href="mailto:renanmachado7785@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/-Mandar_Email-FF0000?style=plastic&logo=gmail&logoColor=white" alt="Email" />
