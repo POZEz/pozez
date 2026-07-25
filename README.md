@@ -7,9 +7,9 @@
 </a>
 </div>
 <div align="center">
-<p> Backend Developer & Discord Bot's Developer</b></p>
+<p> Backend & Bot Developer</b></p>
 <p>
-Sobrevivendo à base de cafeína e gatos!
+Codando à base de cafeína e gatos!
 
 Criador da <b>Boreal App</b>, especialista em gambiarras e em dizer <i>"seco seco, filho"</i>.
 </p>
