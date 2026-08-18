@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="150" alt="Gato digitando freneticamente" />
 <!-- Animação com fonte Comic Sans e cores berrantes -->
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=BEM-VINDO+A+HOME+PAGE+DO+POZEZ!;Vendo+licença+do+Linux;Senior+StackOverflow+Developer;Powered+by+Gatos+%26+Cafe%C3%ADna" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&weight=700&size=26&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=BEM-VINDO+A+HOME+PAGE+DO+POZEZ!;Vendo+licença+do+Linux;Senior+StackOverflow+Developer;Powered+by+cats+%26+Coffee%C3%ADna" alt="Typing SVG" />
 </a>
 </div>
 <div align="center">
