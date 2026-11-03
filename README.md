@@ -39,7 +39,7 @@
 <div align="center">
   <h2>Laboratório de Gambiarras</h2>
   <p>
-    <b>Boreal App:</b> Meu bot do Discord feito com código 100% artesanal (sem cair, na medida do possível).<br />
+    <b>Boreal App:</b> Meu bot do Discord feito com pau e pedra.<br />
   </p>
   <a href="fitdecalcinha.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-Visitar_Bot_Boreal-5865F2?style=plastic&logo=discord&logoColor=white" alt="Bot Boreal" />
