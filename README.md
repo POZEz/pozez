@@ -40,9 +40,8 @@
   <h2>Laboratório de Gambiarras</h2>
   <p>
     <b>Boreal App:</b> Meu bot do Discord feito com código 100% artesanal (sem cair, na medida do possível).<br />
-    <i>Clique no botão abaixo para testar antes que dê tela azul:</i>
   </p>
-  <a href="https://boreal.squareweb.app" target="_blank">
+  <a href="fitdecalcinha.com.br" target="_blank">
     <img src="https://img.shields.io/badge/-Visitar_Bot_Boreal-5865F2?style=plastic&logo=discord&logoColor=white" alt="Bot Boreal" />
   </a>
 </div>
@@ -55,7 +54,7 @@
     <i>Para dúvidas sobre ativação de serial do Linux ou permissões de sistema:</i>
   </p>
   <pre><code>$ sudo apt-get install licenca-do-linux-original.deb
-[ERRO]: 404 - Arquivo não encontrado (mas o Pix tá liberado)
+[ERRO]: 404 - Arquivo não encontrado 
 $ chmod -R 777 / --no-preserve-root
 [AVISO]: Não tente isso em casa. Ou tente, é seu computador.</code></pre>
   <br />
@@ -70,7 +69,7 @@ $ chmod -R 777 / --no-preserve-root
 
 <div align="center">
   <h2>Meu Livro de Visitas</h2>
-  <p><i>Mande um e-mail (ou sinal de fumaça):</i></p>
+  <p><i>Mande um e-mail:</i></p>
   <!-- Estilo "plastic" para simular botões velhos em 3D -->
   <a href="mailto:renanmachado7785@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Mandar_Email-FF0000?style=plastic&logo=gmail&logoColor=white" alt="Email" />
@@ -85,7 +84,6 @@ $ chmod -R 777 / --no-preserve-root
   <img src="https://cyber.dabamos.de/88x31/underconstruction.gif" alt="Site em Construção" />
   <img src="https://media.giphy.com/media/l41lFw057lAJQMwg0/giphy.gif" width="100" alt="Gatinho fofo" />
   <br /><br />
-  <p><small><i>Melhor visualizado em resolução 800x600 no Netscape Navigator.</i></small></p>
   <p>Você é o visitante cibernético nº:</p>
   <!-- Contador estilo 3D antigo (plastic) -->
   <img src="https://komarev.com/ghpvc/?username=POZEz&style=plastic&color=FF00FF&label=HITS" alt="Contador de Visitas" />
